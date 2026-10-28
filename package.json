@@ -1,0 +1,11 @@
+{
+  "name": "bidhayak-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bidhayak Baral's personal portfolio.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check dist/script.js"
+  }
+}
